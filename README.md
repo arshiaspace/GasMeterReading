@@ -138,8 +138,8 @@ thresh = cv2.threshold(
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/gas-meter-reading-ml.git
-cd gas-meter-reading-ml
+git clone https://github.com/arshiaspace/GasMeterReading.git
+cd GasMeterReading
 ```
 
 ### Install Dependencies
